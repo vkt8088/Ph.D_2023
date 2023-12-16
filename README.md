@@ -1,2 +1,3 @@
 # Ph.D_2023
-The subjects i have learned in first semester
+The subjects I have learned in the first semester
+The subjects which appear like a monster first
